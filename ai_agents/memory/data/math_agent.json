@@ -1,0 +1,20 @@
+{
+  "facts": [
+    {
+      "fact": "Calculated: 42 * 58 = 2436",
+      "source": "calculate tool",
+      "timestamp": 1773038990.945359
+    }
+  ],
+  "conversation_history": [
+    {
+      "user_query": "Calculate 42 * 58",
+      "agent_response": "The result of 42 \u00d7 58 is **2,436**.",
+      "tools_used": [
+        "calculate"
+      ],
+      "timestamp": 1773038992.8454232
+    }
+  ],
+  "goals": []
+}
